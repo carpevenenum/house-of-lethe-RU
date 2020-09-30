@@ -34,7 +34,7 @@
 	* Daughter of Venoms - Дочь Ядов (Дочь Злобы? Больше подходит под её родство с 7C...)
 	* Key-Serpent - Змея-Ключ (Змея ключей?)
 	* St. Agnes - Святая Агнесса
-	* Nagi - Нага (?)
+	* Nagi - Нага
 	* who encircles - что опоясывает
 	* who opens - что разверзает
 	* who arises from wounds - что восстаёт из ран
