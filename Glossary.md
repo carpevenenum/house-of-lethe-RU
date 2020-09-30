@@ -50,25 +50,26 @@
 * Colonel - Полковник
 	* Tribune of Scars - Трибун шрамов
 	* Scarred Captain - Зарубцованный Капитан
-	* Scarred One - Зарубцованный
+	* Scarred One - Шрам
 	* Chiliarch - Хилиарх
 	* Cartographer of Scars - Картограф Шрамов
 	* Great One - Великий
 	* who is blind - что слеп
-	* who is scarred - что зарубцован
+	* who is scarred - что покрыт шрамами
 	* who cannot be denied - кому нельзя отказать
-* Lionsmith - Кузнец Львов (~~МетаЛЬВУрг)
+* Lionsmith - Кузнец Львов (~~МетаЛЬВУрг~~)
 	* Golden General - Золотой Генерал
 * Elegiast - Элегист
 	* Ivory Dove - Костяной голубь (конкретно "слоновую кость" кажется адекватно не вписать)
 	* Keener - Плакальщик
-	* who calls each of the Dead by name - что знаёт мертвых поимённо (?)
-	* who cannot be deceived - кого нельзя обмануть (что видит обман насквозь?)
-	* from whom nothing more can be taken - у кого больше ничего нельзя забрать (у кого больше нечего брать?)
+	* who calls each of the Dead by name - что зовёт каждого Мёртвого по имени
+	* who knows the names of all the dead - что знает имя каждого мёртвого
+	* who cannot be deceived - кого нельзя обмануть
+	* from whom nothing more can be taken - у кого больше нечего брать
 * Beachcomber - Рыщущий-в-Песке (?)
 	* Beach-Crow - Пляжный Ворон
 	* who sees what is lost - что видит потерянное
-	* who opens the earth - что открывает землю
+	* who opens the earth - что раскрывает землю
 	* to whom belongs what is not possessed - кому принадлежит то, что не принадлежит никому (кто хозяен всего, что никому не принадлежит?)
 * Meniscate - Мениск (Мениската?)
 	* Mirror-Queen - Королева Зеркал (?)
