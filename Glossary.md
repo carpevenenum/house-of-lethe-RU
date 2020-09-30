@@ -5,7 +5,7 @@
 * Moth - Мотылёк
 	* Dapple-King - Крапчатый Король
 	* who beats within the skull - что бьётся под черепом
-	* who is dappled - что крапчатый
+	* who is dappled - что крапчат
 	* who seeks among the trees of the Wood - что рыщет среди деревьв Леса
 * Door in the Eye - Врата-в-Оке
 	* Watchman - Часовой
