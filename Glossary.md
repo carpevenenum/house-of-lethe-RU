@@ -10,13 +10,13 @@
 * Door in the Eye - Врата-в-Оке
 	* Watchman - Часовой
 	* Doorkeeper - Привратник
-	* who navigates - что ведёт
+	* who navigates - что направляет
 	* who illuminates - что озаряет
+	* who is not compassionate - что не сострадает
 	* who is not mericful - что не милосерден
-	* who is not compassionate - что не сострадателен
 * Velvet - Бархат
    * The Black-Flax - Чёрная Кудель
-   * Moldywarp - ?
+   * Moldywarp - Землекопица
 * Malachite - Малахит
 	* Ring-Yew - Тис Окольцованный?
 	* Honey-Tree - Медовое дерево
