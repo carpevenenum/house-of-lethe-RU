@@ -7,7 +7,7 @@
 	* who beats within the skull - что бьётся под черепом
 	* who is dappled - что крапчат
 	* who seeks among the trees of the Wood - что рыщет среди деревьв Леса
-* Door in the Eye - Врата-в-Оке
+* Door in the Eye - Дверь-в-Глазу
 	* Watchman - Часовой
 	* Doorkeeper - Привратник
 	* who navigates - что направляет
