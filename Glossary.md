@@ -18,27 +18,27 @@
    * The Black-Flax - Чёрная Кудель
    * Moldywarp - Землекопица
 * Malachite - Малахит
-	* Ring-Yew - Тис Окольцованный?
+	* Ring-Yew - Окольцованный Тис
 	* Honey-Tree - Медовое дерево
-	* who is succulent - что сочна (?)
+	* who is succulent - что сочна
 	* who encompasses - что охватывает
-	* who is renewed - что возобновлена (возрождена? не стареет?)
-* Thunderskin - Громовая кожа (Громокожа?)
+	* who is renewed - что оживлена
+* Thunderskin - Громокожа
    * Heart Relentless - Сердце Неустанное
    * Vigilant Storm - Неусыпный Шторм
    * Pine-Knight - Сосновый Рыцарь
    * who cannot be stilled - что не может быть успокоен
    * who demands the dance - что требует танца
-   * who is beaten, like a drum - ?
+   * who is beaten, like a drum - что бьют, словно барабан
 * Mother of Ants - Мать Муравьёв
 	* Daughter of Venoms - Дочь Ядов (Дочь Злобы? Больше подходит под её родство с 7C...)
 	* Key-Serpent - Змея-Ключ (Змея ключей?)
 	* St. Agnes - Святая Агнесса
 	* Nagi - Нага (?)
-	* who encircles - что окружает
-	* who opens - что открывает
-	* who arises from wounds - что является из ран
-	* who spares those who are already harmed - что щадит тех, кто уже ?? (ранены?)
+	* who encircles - что опоясывает
+	* who opens - что разверзает
+	* who arises from wounds - что восстаёт из ран
+	* who spares those who are already harmed - что щадит тех, кто уже ранен
 * Witch-and-Sister / Sister-and-Witch - Ведьма-и-Сестра / Сестра-и-Ведьма
 	* Twins - Близнецы
 	* Sea-Twins - Морские Близнецы
