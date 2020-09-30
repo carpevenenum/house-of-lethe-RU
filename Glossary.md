@@ -3,18 +3,19 @@
 ## Hours and enactments/Часы и воззвания (?)
 
 * Moth - Мотылёк
-	* Dapple-King - ?
-	* who beats within the skull - что бьётся в черепе (?)
-	* who is dappled - что пятнист (?)
-	* who seeks among the trees of the Wood - что ищет (рыскает?) среди деревьв Леса (в Лесу? теряет "деревья", но звучит лучше)
+	* Dapple-King - Крапчатый Король
+	* who beats within the skull - что бьётся под черепом
+	* who is dappled - что крапчатый
+	* who seeks among the trees of the Wood - что рыщет среди деревьв Леса
 * Door in the Eye - Врата-в-Оке
-	* Watchman - Смотритель
+	* Watchman - Часовой
 	* Doorkeeper - Привратник
-	* who navigates - что направляет (?)
-	* who illuminates - что освещает
-	* who is not compassionate - что не милосерден
+	* who navigates - что ведёт
+	* who illuminates - что озаряет
+	* who is not mericful - что не милосерден
+	* who is not compassionate - что не сострадателен
 * Velvet - Бархат
-   * The Black-Flax - Чёрный лён (Чёрный кудель?)
+   * The Black-Flax - Чёрная Кудель
    * Moldywarp - ?
 * Malachite - Малахит
 	* Ring-Yew - Тис Окольцованный?
@@ -60,6 +61,7 @@
 	* Golden General - Золотой Генерал
 * Elegiast - Элегист
 	* Ivory Dove - Костяной голубь (конкретно "слоновую кость" кажется адекватно не вписать)
+	* Keener - Плакальщик
 	* who calls each of the Dead by name - что знаёт мертвых поимённо (?)
 	* who cannot be deceived - кого нельзя обмануть (что видит обман насквозь?)
 	* from whom nothing more can be taken - у кого больше ничего нельзя забрать (у кого больше нечего брать?)
