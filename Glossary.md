@@ -113,6 +113,11 @@
 	* he cannot touch you - он не может тебя коснуться
 	* he cannot find you - он не может тебя найти
 	* he always has what you desire - у него всегда есть то, что ты желаешь
+* Forge of Days - Кузня Дней
+	* Unburnt God - Неопалимая (Неопалимая Богиня?)
+	* Burning Queen - Пылающая Королева
+	* St. Spark - Святая Искра
+	* Leashed Flame - Укрощённое Пламя?
 * Crowned Growth - Венценосная Опухоль
 * Mare-in-the-Tree - Кобылица-в-Дереве
 * Chandler - Свечница
