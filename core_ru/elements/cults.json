@@ -2,7 +2,7 @@
     "elements": [
         {
             "id": "cultedge_1",
-            "label": "Church of the Bright Edge",
+            "label": "Церковь блестящей грани",
             "aspects": {
                 "society": 1,
                 "venerationedge": 1
@@ -10,7 +10,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -20,35 +20,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the Hours of struggle and conquest. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Assassins.]",
+            "description": "Тайное общество, посвященное Часам борьбы и завоеваний. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Assassins.]",
             "unique": true
         },
         {
             "id": "cultforge_1",
-            "label": "Unflinching Order",
+            "label": "Орден непоколебимый",
             "aspects": {
                 "society": 1,
                 "venerationforge": 1
@@ -56,7 +56,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -66,35 +66,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the fire that changes and remakes. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Reshapers.]",
+            "description": "Тайное общество, посвященное огню, что преображает и создает вновь. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Reshapers.]",
             "unique": true
         },
         {
             "id": "cultgrail_1",
-            "label": "Order of the Bloody Cup",
+            "label": "Орден кровавого кубка",
             "aspects": {
                 "society": 1,
                 "venerationgrail": 1
@@ -102,7 +102,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -112,35 +112,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the mysteries of birth, blood and appetite. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Cyprians.]",
+            "description": "Тайное общество, посвященное таинствам рождения, крови и жажды. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Cyprians.]",
             "unique": true
         },
         {
             "id": "cultheart_1",
-            "label": "Temple Unceasing",
+            "label": "Храм нескончаемый",
             "aspects": {
                 "society": 1,
                 "venerationheart": 1
@@ -148,7 +148,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -158,35 +158,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the drumbeat which can never end. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Tarantellists.]",
+            "description": "Тайное общество, посвященное дроби барабана, что не прекратится никогда. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Tarantellists.]",
             "unique": true
         },
         {
             "id": "cultknock_1",
-            "label": "Society of the Holy Wound",
+            "label": "Общество святой раны",
             "aspects": {
                 "society": 1,
                 "venerationknock": 1
@@ -194,7 +194,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -204,35 +204,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the Hours which open doors. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Keys.]",
+            "description": "Тайное общество, посвященное тем Часам, что открывают двери. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Keys.]",
             "unique": true
         },
         {
             "id": "cultlantern_1",
-            "label": "Mirror of Glory",
+            "label": "Зеркало Славы",
             "aspects": {
                 "society": 1,
                 "venerationlantern": 1
@@ -240,7 +240,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -250,35 +250,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the understanding of the Light that leaks from a fiercer place. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Seers.]",
+            "description": "Тайное общество, посвященное пониманию света, что течет из места неистовее. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Seers.]",
             "unique": true
         },
         {
             "id": "cultmoth_1",
-            "label": "Wildwood Club",
+            "label": "Кружок Диколесья",
             "aspects": {
                 "society": 1,
                 "venerationmoth": 1
@@ -286,7 +286,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -296,35 +296,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to chaos, and the unexpected Hours. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Skintwisters.]",
+            "description": "Тайное общество, посвященное хаосу и Часам неожиданным. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to Skintwisters.]",
             "unique": true
         },
         {
             "id": "cultsecrethistories_1",
-            "label": "Society of St Hydra",
+            "label": "Общество св. Гидры",
             "aspects": {
                 "society": 1,
                 "venerationedge": 1,
@@ -339,7 +339,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -349,35 +349,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "For the higher mysteries, deeper oaths are needed."
+                    "description": "Высшие тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the study of the five Histories and their thousand demi-real branches. [St Hydra, unusually, allows you to use any aspect to promote Believers; but it has no Exalted specialists.]",
+            "description": "Тайное общество, посвященное изучению пяти Историй и тысячи их полу-явных ветвлений. [St Hydra, unusually, allows you to use any aspect to promote Believers; but it has no Exalted specialists.]",
             "unique": true
         },
         {
             "id": "cultwinter_1",
-            "label": "Children of Silence",
+            "label": "Дети тишины",
             "aspects": {
                 "society": 1,
                 "venerationwinter": 1
@@ -385,7 +385,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -395,35 +395,35 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to the silence that comes and the cold that ends. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to a condition of lethal silence.]",
+            "description": "Тайное общество, посвященное приходящей тишине и уходящему морозу. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to a condition of lethal silence.]",
             "unique": true
         },
         {
             "id": "cultwinter_2",
-            "label": "Towers of the Dove",
+            "label": "Башни Голубя",
             "aspects": {
                 "society": 1,
                 "venerationwinter": 1
@@ -431,7 +431,7 @@
             "slots": [
                 {
                     "id": "Associate",
-                    "label": "Associate",
+                    "label": "Сообщник",
                     "actionid": "talk",
                     "required": {
                         "mortal": 1
@@ -441,30 +441,30 @@
                         "hireling": 1,
                         "prisoner": 1
                     },
-                    "description": "A new recruit, or a hardened disciple."
+                    "description": "Некто новообращённый, или же бывалый последователь."
                 },
                 {
                     "id": "Ceremony",
-                    "label": "Ceremony",
+                    "label": "Церемония",
                     "actionid": "talk",
                     "required": {
                         "lore": 1
                     },
-                    "description": "To recruit a novice, I only need a small secret. The higher mysteries require deeper oaths."
+                    "description": "Чтобы обратить на нашу сторону кого-то нового, мне потребуется лишь малый секрет. Высшие же тайны требуют глубоких клятв."
                 },
                 {
                     "id": "Trappings",
-                    "label": "Trappings",
+                    "label": "Атрибутика",
                     "actionid": "talk",
                     "required": {
                         "tool": 1,
                         "ingredient": 1,
                         "influence": 1
                     },
-                    "description": "For a proper sense of occasion. Consumes Ingredients and Influences; uses, but does not consume, Tools."
+                    "description": "Чтобы все и правда казалось важным. Забирает Ингредиенты и Влияния; использует, но не забирает Инструменты."
                 }
             ],
-            "description": "An occult society dedicated to all that has been lost, and what may yet return. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to a condition of lethal silence.]",
+            "description": "Тайное общество, посвященное всему потерянному, и тому, что может еще вернуться. [You can use Cults with the Talk verb to recruit or promote followers, and to send them out on errands to gather resources. A Believer can be promoted to a Disciple; a few gifted Disciples can be exalted even higher, to a condition of lethal silence.]",
             "unique": true,
             "icon": "cultwinter_1"
         }

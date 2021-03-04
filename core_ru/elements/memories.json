@@ -2,8 +2,8 @@
     "elements": [
         {
             "id": "memorybittersweet",
-            "label": "Bittersweet Memory",
-            "description": "I could recall a complex time.",
+            "label": "Неоднозначное воспоминание",
+            "description": "В моей памяти отпечатались непростые дни.",
             "aspects": {
                 "way": 1,
                 "memory": 1
@@ -12,8 +12,8 @@
         },
         {
             "id": "memorypleasant",
-            "label": "Pleasant Memory",
-            "description": "I could recall a happier time.",
+            "label": "Теплое воспоминание",
+            "description": "В моей памяти отпечатались счастливые дни.",
             "aspects": {
                 "way": 1,
                 "memory": 1
@@ -22,8 +22,8 @@
         },
         {
             "id": "memorypassionate",
-            "label": "Passionate Memory",
-            "description": "I could recall a warmer time.",
+            "label": "Страстное воспоминание",
+            "description": "В моей памяти отпечатались нежные дни.",
             "aspects": {
                 "way": 1,
                 "memory": 1
@@ -32,120 +32,120 @@
         },
         {
             "id": "memory.shameful",
-            "label": "Something Shameful",
+            "label": "Нечто позорное",
             "aspects": {
                 "memory": 1
             },
-            "description": "Not all private pleasures are suitable for public discussion.",
+            "description": "Не все глубоко личные удовольствия можно вынести на свет.",
             "lifetime": 300
         },
         {
             "id": "memory.profitable",
-            "label": "Something Profitable",
+            "label": "Нечто прибыльное",
             "aspects": {
                 "memory": 1
             },
-            "description": "A ray of commercial light; a miniature opportunity; a figurative five-pound note on the pavement.",
+            "description": "Луч доходного света, крохотная возможность, некая метафорическая пятифунтовая банкнота, лежащая передо мной на тротуарной плитке.",
             "lifetime": 300
         },
         {
             "id": "memory.joyful",
-            "label": "Something Joyful",
+            "label": "Нечто приятное",
             "aspects": {
                 "memory": 1
             },
-            "description": "Delight does not endure for long, but sometimes, it endures longer than do we.",
+            "description": "Радость не живет долго, но порой может пережить и нас.",
             "lifetime": 300
         },
         {
             "id": "memory.menacing",
-            "label": "Something Menacing",
+            "label": "Нечто зловещее",
             "aspects": {
                 "memory": 1
             },
-            "description": "The great mercy of dreams is that they do not often intrude into waking life.",
+            "description": "Сны милосердны тем, что редко вторгаются в явь.",
             "lifetime": 300
         },
         {
             "id": "memory.unexpected",
-            "label": "Something Unexpected",
+            "label": "Нечто неожиданное",
             "aspects": {
                 "memory": 1
             },
-            "description": "Every life has its impossible corners.",
+            "description": "Своими невозможными моментами обладает каждая человеческая жизнь.",
             "lifetime": 300
         },
         {
             "id": "memory.furious",
-            "label": "Furious Memory",
+            "label": "Неистовое воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "Long after the cause for rage has passed, the rage endures. Here is a memory of a wrong done before ever iron was tamed. [Paint with this Memory to bring it to full awareness.]"
+            "description": "Пусть повод гнева давно прошел, но сам гнев все длится. Вот воспоминание несправедливости из времен до овладевания железом. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.luxurious",
-            "label": "Luxurious Memory",
+            "label": "Роскошное воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "Pleasure, like the sea, is ancient; pleasure, like the sea, precedes the conscious human soul; but like the sea, pleasure is different in every age and every hour. [Paint with this Memory to bring it to full awareness.]"
+            "description": "Удовольствие, как море, с нами с древности; удовольствие, как море, опережает сознающую человеческую душу; но, как и море, удовольствие разнится от эпохи к эпохе и от часа к часу. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.liminal",
-            "label": "Liminal Memory",
+            "label": "Пороговое воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "'We each of us have a memory of a moment when things changed forever, though at the time we never knew it. Perhaps the world also has those memories.' [Paint with this Memory to bring it to full awareness.]"
+            "description": "'Все мы владеем воспоминанием, разделившим все на до и после, пусть это и не было известно нам тогда. Быть может, такие воспоминания есть и у мира. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.horizon",
-            "label": "Glorious Memory",
+            "label": "Славное воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "The Sun was warmer once - no brighter, but its touch was a kind of mercy. [Paint with this Memory to bring it to full awareness.]"
+            "description": "Некогда Солнце было теплее - не ярче, но прикосновение его несло в себе милосердие. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.splendid",
-            "label": "Splendid Memory",
+            "label": "Прекрасное воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "The Sun was brighter once - no warmer, but its light held colours we no longer see. [Paint with this Memory to bring it to full awareness.]"
+            "description": "Некогда Солнце было ярче - не теплее, но свет его нес в себе цвета, невидимые нам теперь. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.endless",
-            "label": "Endless Memory",
+            "label": "Бесконечное воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "There is a Wheel that only turns beneath the Moon, where once it turned beneath the Sun. But why only one? Why only two? [Paint with this Memory to bring it to full awareness.]"
+            "description": "Есть Колесо, что вращается лишь под Луной, там, где некогда вращалось под Солнцем. Но почему лишь одно? И почему лишь два? [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.wildering",
-            "label": "Wildering Memory",
+            "label": "Путанное воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "Sometimes we remember what was lost even when we have forgotten that it is gone. [Paint with this Memory to bring it to full awareness.]"
+            "description": "Порой мы вспоминаем потерянное, забыв уже о том, что оно не с нами. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.golden",
-            "label": "Golden Memory",
+            "label": "Золотое воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "In fire are all the treasures of the earth revealed. [Paint with this Memory to bring it to full awareness.]"
+            "description": "В огне видны нам все сокровища земли. [Paint with this Memory to bring it to full awareness.]"
         },
         {
             "id": "memory.honeyed",
-            "label": "Honeyed Memory",
+            "label": "Сладкое воспоминание",
             "aspects": {
                 "memory": 5
             },
-            "description": "When we walked in the ways of the wood we were winged and watchful, and we had no need of nectar. [Paint with this Memory to bring it to full awareness.]"
+            "description": "Когда ходили мы по лесным путям, мы были крылаты и чутки, и нектар нам был не нужен. [Paint with this Memory to bring it to full awareness.]"
         }
     ]
 }
