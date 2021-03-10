@@ -2,55 +2,55 @@
     "elements": [
         {
             "id": "uq.rkx.weakness.cold",
-            "label": "Weakness: Cold",
+            "label": "Слабость: Cold",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.heat",
-            "label": "Weakness: Heat",
+            "label": "Слабость: Heat",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.sea",
-            "label": "Weakness: Sea",
+            "label": "Слабость: Sea",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.faith",
-            "label": "Weakness: Faith",
+            "label": "Слабость: Faith",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.cats",
-            "label": "Weakness: Cats",
+            "label": "Слабость: Cats",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.heights",
-            "label": "Weakness: heights",
+            "label": "Слабость: heights",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.horned",
-            "label": "Weakness: Horned",
+            "label": "Слабость: Horned",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.wolf",
-            "label": "Weakness: Wolf",
+            "label": "Слабость: Wolf",
             "isAspect": true,
             "isHidden": true
         },
         {
             "id": "uq.rkx.weakness.flowermaker",
-            "label": "Weakness: Flowermaker",
+            "label": "Слабость: Flowermaker",
             "isAspect": true,
             "isHidden": true
         },
@@ -63,7 +63,7 @@
         },
         {
             "id": "weakness.foe.unknown",
-            "label": "Foe: An Unknown Weakness",
+            "label": "Foe: Неизвестная слабость",
             "description": "My Foe is vulnerable to certain distractions. [You can find out exactly what through experimentation or revelation.]",
             "isAspect": true,
             "icon": "lockscar"
@@ -6511,7 +6511,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6520,7 +6520,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6550,7 +6550,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6559,7 +6559,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6589,7 +6589,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6598,7 +6598,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6628,7 +6628,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6637,7 +6637,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6667,7 +6667,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6676,7 +6676,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6706,7 +6706,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6715,7 +6715,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6745,7 +6745,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -6754,7 +6754,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7153,7 +7153,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7162,7 +7162,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7349,7 +7349,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7357,7 +7357,7 @@
                     }
                 }
             ],
-            "description": "A message from Aachen has found me. An old acquaintance from Marrakech is hunting there. She'd like my help. [Once you leave the current city, this will never be available again.]",
+            "description": "A message from Aachen has found me. An old acquaintance from Marrakech is hunting there. She'd like my help. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "xtriggers": {
                 "arriving": [
                     {
@@ -7381,7 +7381,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7389,7 +7389,7 @@
                     }
                 }
             ],
-            "description": "Back before the war, I was invited to the Invisible Serapeum in Alexandria. With luck, the invitation is still open. [Once you leave the current city, this will never be available again.]",
+            "description": "Back before the war, I was invited to the Invisible Serapeum in Alexandria. With luck, the invitation is still open. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7415,7 +7415,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7423,7 +7423,7 @@
                     }
                 }
             ],
-            "description": "My smuggler contact, M. Giorgiou, has people in Algiers. They could get me in there quietly. [Once you leave the current city, this will never be available again.]",
+            "description": "My smuggler contact, M. Giorgiou, has people in Algiers. They could get me in there quietly. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7447,7 +7447,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7455,7 +7455,7 @@
                     }
                 }
             ],
-            "description": "Over the years I've found a dozen treasures for the Stegenga twins in Amsterdam. They may give me shelter. [Once you leave the current city, this will never be available again.]",
+            "description": "Over the years I've found a dozen treasures for the Stegenga twins in Amsterdam. They may give me shelter. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7479,7 +7479,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7487,7 +7487,7 @@
                     }
                 }
             ],
-            "description": "A smuggler contact in Avignon, M. Giorgiou, has a proposition for me. [Once you leave the current city, this will never be available again.]",
+            "description": "A smuggler contact in Avignon, M. Giorgiou, has a proposition for me. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "xtriggers": {
                 "arriving": [
                     {
@@ -7512,7 +7512,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7520,7 +7520,7 @@
                     }
                 }
             ],
-            "description": "Percy Styles is still in Baghdad, doing whatever it is he does for the British government in Mandatory Iraq. He'd probably still be glad to see me.  [Once you leave the current city, this will never be available again.]",
+            "description": "Percy Styles is still in Baghdad, doing whatever it is he does for the British government in Mandatory Iraq. He'd probably still be glad to see me.  [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7548,7 +7548,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7556,7 +7556,7 @@
                     }
                 }
             ],
-            "description": "I hear my old friend Lili has moved her black market operations to Budapest. [Once you leave the current city, this will never be available again.]",
+            "description": "I hear my old friend Lili has moved her black market operations to Budapest. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7582,7 +7582,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7591,7 +7591,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7599,7 +7599,7 @@
                     }
                 }
             ],
-            "description": "It's a long time since I was in Crete, but I've been dreaming about it again, and about the scent of hawthorn... [Once you leave the current city, this will never be available again.]",
+            "description": "It's a long time since I was in Crete, but I've been dreaming about it again, and about the scent of hawthorn... [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7623,7 +7623,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7631,7 +7631,7 @@
                     }
                 }
             ],
-            "description": "My old friend Lili's operations in Cluj have suffered since Hungary gave the city up, but her name might still open doors. [Once you leave the current city, this will never be available again.]",
+            "description": "My old friend Lili's operations in Cluj have suffered since Hungary gave the city up, but her name might still open doors. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7655,7 +7655,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7663,7 +7663,7 @@
                     }
                 }
             ],
-            "description": "I've had dealings with a gallery owner in Granada. Last year she invited me to stay with her. [Once you leave the current city, this will never be available again.]",
+            "description": "I've had dealings with a gallery owner in Granada. Last year she invited me to stay with her. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7688,7 +7688,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7696,7 +7696,7 @@
                     }
                 }
             ],
-            "description": "My old comrade-in-arms Kara Kemal has connections with the Black Arm remnants in Istanbul. Perhaps his name will still open doors. [Once you leave the current city, this will never be available again.]",
+            "description": "My old comrade-in-arms Kara Kemal has connections with the Black Arm remnants in Istanbul. Perhaps his name will still open doors. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7720,7 +7720,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7728,7 +7728,7 @@
                     }
                 }
             ],
-            "description": "Dominykas the Baker has done well for himself: high-level connections in the Iron Wolf in Kaunas. We never really got on, but he owes me, and I can't be fussy. [Once you leave the current city, this will never be available again.]",
+            "description": "Dominykas the Baker has done well for himself: high-level connections in the Iron Wolf in Kaunas. We never really got on, but he owes me, and I can't be fussy. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7752,7 +7752,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7760,7 +7760,7 @@
                     }
                 }
             ],
-            "description": "I've heard rumours the hungriest of the Ligeians is abroad in Kiev. My pursuers will need to tread carefully there, but then, so will I. [Once you leave the current city, this will never be available again.]",
+            "description": "I've heard rumours the hungriest of the Ligeians is abroad in Kiev. My pursuers will need to tread carefully there, but then, so will I. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7784,7 +7784,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7792,7 +7792,7 @@
                     }
                 }
             ],
-            "description": "Yitzchok Ashlag in Krakow has relied on me for years for the rarer occult texts. He's a hospitable man. [Once you leave the current city, this will never be available again.]",
+            "description": "Yitzchok Ashlag in Krakow has relied on me for years for the rarer occult texts. He's a hospitable man. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7818,7 +7818,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7826,7 +7826,7 @@
                     }
                 }
             ],
-            "description": "The 'Athenians' who sell years in Russia are sworn enemies of the Reckoner mobs, but I've been known to get drunk with a certain Sushkin. Let's hope he remembers me. [Once you leave the current city, this will never be available again.]",
+            "description": "The 'Athenians' who sell years in Russia are sworn enemies of the Reckoner mobs, but I've been known to get drunk with a certain Sushkin. Let's hope he remembers me. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7851,7 +7851,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7859,7 +7859,7 @@
                     }
                 }
             ],
-            "description": "Ottavio Berton in London has put out the word that he'd like my help. He's a scoundrel, but we go back a long way. [Once you leave the current city, this will never be available again.]",
+            "description": "Ottavio Berton in London has put out the word that he'd like my help. He's a scoundrel, but we go back a long way. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7884,7 +7884,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7892,7 +7892,7 @@
                     }
                 }
             ],
-            "description": "A marabout named Navil has somehow discovered I'm here. His message reads only 'COME TO MARRAKECH, FOR GLORY' [Once you leave the current city, this will never be available again.]",
+            "description": "A marabout named Navil has somehow discovered I'm here. His message reads only 'COME TO MARRAKECH, FOR GLORY' [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7918,7 +7918,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7927,7 +7927,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7935,7 +7935,7 @@
                     }
                 }
             ],
-            "description": "A very old poet in Meshad has long been a favourite customer of mine. She'll certainly offer me hospitality. [Once you leave the current city, this will never be available again.]",
+            "description": "A very old poet in Meshad has long been a favourite customer of mine. She'll certainly offer me hospitality. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7961,7 +7961,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -7969,7 +7969,7 @@
                     }
                 }
             ],
-            "description": "I have a standing invitation from Count Gottlieb Jannings, of Munich, to attend a meeting of the duelling society he favours. [Once you leave the current city, this will never be available again.]",
+            "description": "I have a standing invitation from Count Gottlieb Jannings, of Munich, to attend a meeting of the duelling society he favours. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -7996,7 +7996,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8005,7 +8005,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8013,7 +8013,7 @@
                     }
                 }
             ],
-            "description": "Sushkin of the 'Athenians' has kept his import-export operation in Nizhny running, but it's difficult under the Soviets. His people there might be glad of my help. [Once you leave the current city, this will never be available again.]",
+            "description": "Sushkin of the 'Athenians' has kept his import-export operation in Nizhny running, but it's difficult under the Soviets. His people there might be glad of my help. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8037,7 +8037,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8045,7 +8045,7 @@
                     }
                 }
             ],
-            "description": "Tante Adeline's moved on, but she still has people in Paris, and they'll give me shelter. [Once you leave the current city, this will never be available again.]",
+            "description": "Tante Adeline's moved on, but she still has people in Paris, and they'll give me shelter. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8069,7 +8069,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8077,7 +8077,7 @@
                     }
                 }
             ],
-            "description": "The old rogue in Prague who calls herself 'Tante Adeline' could use my help. [Once you leave the current city, this will never be available again.]",
+            "description": "The old rogue in Prague who calls herself 'Tante Adeline' could use my help. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8101,7 +8101,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8109,7 +8109,7 @@
                     }
                 }
             ],
-            "description": "My correspondent Count Jannings has a house in Rostock that I could use. [Once you leave the current city, this will never be available again.]",
+            "description": "My correspondent Count Jannings has a house in Rostock that I could use. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8136,7 +8136,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8145,7 +8145,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8153,7 +8153,7 @@
                     }
                 }
             ],
-            "description": "I used to supply proscribed materials to a Jadidist magus in Samarkand. Perhaps he remembers me. [Once you leave the current city, this will never be available again.]",
+            "description": "I used to supply proscribed materials to a Jadidist magus in Samarkand. Perhaps he remembers me. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8180,7 +8180,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8189,7 +8189,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8197,7 +8197,7 @@
                     }
                 }
             ],
-            "description": "The criminal adepts called the Bird-Eaters have set their faces against the laws of both man and Mansus. I had heard that Zulfiya the Barber had joined them in Stalingrad. The Bird-Eaters are not good people. But I always liked Zulfiya. [Once you leave the current city, this will never be available again.]",
+            "description": "The criminal adepts called the Bird-Eaters have set their faces against the laws of both man and Mansus. I had heard that Zulfiya the Barber had joined them in Stalingrad. The Bird-Eaters are not good people. But I always liked Zulfiya. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8221,7 +8221,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8229,7 +8229,7 @@
                     }
                 }
             ],
-            "description": "The Hügelkinder of the Vosges sometimes take human shape to walk the streets of Strasbourg. I've dealt with them before. They know as well as anyone how to be unobtrusive: perhaps they can help. [Once you leave the current city, this will never be available again.]",
+            "description": "The Hügelkinder of the Vosges sometimes take human shape to walk the streets of Strasbourg. I've dealt with them before. They know as well as anyone how to be unobtrusive: perhaps they can help. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8255,7 +8255,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8264,7 +8264,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8272,7 +8272,7 @@
                     }
                 }
             ],
-            "description": "Zulfiya the Barber used to buy life from me with jewels in the city of Sverdlovsk. She's turned strange and moved on to another city, but she introduced me to some of her contacts, back before the Civil War. [Once you leave the current city, this will never be available again.]",
+            "description": "Zulfiya the Barber used to buy life from me with jewels in the city of Sverdlovsk. She's turned strange and moved on to another city, but she introduced me to some of her contacts, back before the Civil War. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8297,7 +8297,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8305,7 +8305,7 @@
                     }
                 }
             ],
-            "description": "Vasil the Fivegoer took refuge from the reckoners in Tiflis long ago. He owes me, though he might not welcome my visit. [Once you leave the current city, this will never be available again.]",
+            "description": "Vasil the Fivegoer took refuge from the reckoners in Tiflis long ago. He owes me, though he might not welcome my visit. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8329,7 +8329,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8337,7 +8337,7 @@
                     }
                 }
             ],
-            "description": "Before all this went bad, I was negotiating a sale of life with one of President Zogu's people in Tirana. I still have her address. [Once you leave the current city, this will never be available again.]",
+            "description": "Before all this went bad, I was negotiating a sale of life with one of President Zogu's people in Tirana. I still have her address. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8362,7 +8362,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8370,7 +8370,7 @@
                     }
                 }
             ],
-            "description": "I don't have any people in Tripoli. I don't remember it at all. But quite some time ago, in the days of the Ottomans, I was born here. [Once you leave the current city, this will never be available again.]",
+            "description": "I don't have any people in Tripoli. I don't remember it at all. But quite some time ago, in the days of the Ottomans, I was born here. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8392,7 +8392,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8401,7 +8401,7 @@
                 },
                 {
                     "id": "cash2",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8409,7 +8409,7 @@
                     }
                 }
             ],
-            "description": "My old comrade-in-arms Kara Kemal is in exile in Valletta. It's been a while, but I did save his life in the Great War... [Once you leave the current city, this will never be available again.]",
+            "description": "My old comrade-in-arms Kara Kemal is in exile in Valletta. It's been a while, but I did save his life in the Great War... [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8434,7 +8434,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8442,7 +8442,7 @@
                     }
                 }
             ],
-            "description": "I know a woman named Orsolina in Venice. She wasn't always a woman. But she's lived there a very long time. [Once you leave the current city, this will never be available again.]",
+            "description": "I know a woman named Orsolina in Venice. She wasn't always a woman. But she's lived there a very long time. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8466,7 +8466,7 @@
             "slots": [
                 {
                     "id": "cash1",
-                    "label": "Expenses",
+                    "label": "Издержки",
                     "actionid": "travel",
                     "consumes": true,
                     "required": {
@@ -8474,7 +8474,7 @@
                     }
                 }
             ],
-            "description": "It was the White City once. Now they call it 'Red Vienna'. There's a Ligeian here, and the scars of the Worm Wars are still visible to those who know. But if I'm to die, I'd like to see the old place one more time. [Once you leave the current city, this will never be available again.]",
+            "description": "It was the White City once. Now they call it 'Red Vienna'. There's a Ligeian here, and the scars of the Worm Wars are still visible to those who know. But if I'm to die, I'd like to see the old place one more time. [Если отсюда уйти, то вернуться сюда будет нельзя.]",
             "unique": true,
             "xtriggers": {
                 "arriving": [
@@ -8847,22 +8847,22 @@
         },
         {
             "id": "tranquillity",
-            "label": "Tranquillity",
+            "label": "Спокойствие",
             "aspects": {
                 "heart": 4,
                 "winter": 4,
                 "choice.merciful": 1
             },
-            "description": "Even in a life like mine, there are moments when it's possible to think: what may come, may come.",
+            "description": "Даже на моей стезе порой можно сказать себе - будь, что будет.",
             "lifetime": 300
         },
         {
             "id": "grief",
-            "label": "Grief",
+            "label": "Горе",
             "aspects": {
                 "winter": 6
             },
-            "description": "Everything ends.",
+            "description": "Всему приходит свой конец.",
             "lifetime": 300,
             "icon": "apostlelantern.pillar2"
         },
@@ -9053,8 +9053,8 @@
         },
         {
             "id": "rkx.foe",
-            "label": "My Foe",
-            "description": "Seasoned like oak and scarred like sea-cliffs. I have seen his strength, and I would be a fool not to fear it.",
+            "label": "Мой Враг",
+            "description": "Крепкий, как дуб, и рубцов, как у скалы. Его силу мне довелось видеть своими глазами, и глупо было бы не бояться её.",
             "aspects": {
                 "rkx.internal": 1
             },
@@ -9062,8 +9062,8 @@
         },
         {
             "id": "rkx.foe.defeated",
-            "label": "A Trophy of my Foe",
-            "description": "How many times did this heart beat? How many of those beats were stolen from another? It is withering now.",
+            "label": "Трофей из моего Врага",
+            "description": "Сколько раз билось это сердце? И сколько этих биений украдены у других? Теперь оно иссыхает.",
             "aspects": {
                 "rkx.underlings.blocker": 1,
                 "proof": 1
@@ -9072,8 +9072,8 @@
         },
         {
             "id": "rkx.weakness.cold",
-            "label": "Weakness: Cold",
-            "description": "The rumours are true - snow makes my Foe slow and stupid. (Heat and the sea don't trouble him, though.)",
+            "label": "Слабость: Холод",
+            "description": "Слухи оказались правдой - когда погода снежная, мой враг начинает медлить и ошибаться. (Жара и моря ему не страшны.)",
             "uniquenessgroup": "uq.rkx.weakness.cold",
             "aspects": {
                 "weakness.foe": 1
@@ -9081,8 +9081,8 @@
         },
         {
             "id": "rkx.weakness.heat",
-            "label": "Weakness: Heat",
-            "description": "The rumours are true - when the weather is hot enough, my foe becomes slow and stupid. (Cold and the sea don't trouble him, though.)",
+            "label": "Слабость: Heat",
+            "description": "Слухи оказались правдой - когда погода жаркая, мой враг начинает медлить и ошибаться. (Холод и моря ему не страшны.)",
             "uniquenessgroup": "uq.rkx.weakness.heat",
             "aspects": {
                 "weakness.foe": 1
@@ -9090,7 +9090,7 @@
         },
         {
             "id": "rkx.weakness.sea",
-            "label": "Weakness: the Sea",
+            "label": "Слабость: Море",
             "description": "All reckoners treat the sea with caution. But it's true what I've heard: my Foe fears its touch. (Heat and cold don't bother him, though.)",
             "uniquenessgroup": "uq.rkx.weakness.sea",
             "aspects": {
@@ -9099,8 +9099,8 @@
         },
         {
             "id": "rkx.weakness.faith",
-            "label": "Weakness: Faith",
-            "description": "A religious upbringing? A persistent superstition? My enemy is reluctant to desecrate holy places. (But he doesn't avoid cats, or heights.)",
+            "label": "Слабость: Вера",
+            "description": "Верующие воспитатели? Непоколебимые суеверия? Мой неприятель не хотел бы осквернять святые места. (Но он не боится кошек или высоты.)",
             "uniquenessgroup": "uq.rkx.weakness.faith",
             "aspects": {
                 "weakness.foe": 1
@@ -9108,8 +9108,8 @@
         },
         {
             "id": "rkx.weakness.cats",
-            "label": "Weakness: Cats",
-            "description": "My Foe fears cats! He's long been ready to murder anyone who even hinted as much. Now I know why. (But he doesn't avoid holy places, or heights.)",
+            "label": "Слабость: Кошки",
+            "description": "Мой Враг боится кошек! Он давно готов убить любого, кто даже на это намекнет. Теперь я знаю, почему. (Но он не боится высоты или святых мест.)",
             "uniquenessgroup": "uq.rkx.weakness.cats",
             "aspects": {
                 "weakness.foe": 1
@@ -9117,8 +9117,8 @@
         },
         {
             "id": "rkx.weakness.heights",
-            "label": "Weakness: Heights",
-            "description": "High places dizzy and demoralise my Foe. (But he doesn't avoid cats, or holy places.)",
+            "label": "Слабость: Высота",
+            "description": "Возвышенные места путают и деморализуют моего Врага. (Но он не остерегается кошек или святых мест.)",
             "uniquenessgroup": "uq.rkx.weakness.heights",
             "aspects": {
                 "weakness.foe": 1
@@ -9126,8 +9126,8 @@
         },
         {
             "id": "rkx.weakness.horned",
-            "label": "Weakness: Horned Axe's Disfavour",
-            "description": "The Horned Axe does not favour my Foe, and where its shadow falls, he hesitates. (But he doesn't have any especial fear of the other Hours.)",
+            "label": "Слабость: Немилость Рогатой Секиры",
+            "description": "Рогатая Секира немила к моему врагу, и где падает её тень, там он мешкается. (Но других Часов он особо не боится.)",
             "uniquenessgroup": "uq.rkx.weakness.horned",
             "aspects": {
                 "weakness.foe": 1
@@ -9135,8 +9135,8 @@
         },
         {
             "id": "rkx.weakness.wolf",
-            "label": "Weakness: Wolf-Divided's Hatred",
-            "description": "If half the stories of this thing are true, it hates everything with near-equal incandescence. But in my Foe's case, the Wolf's rage burns a fraction hotter. (He doesn't have any especial fear of the other Hours.)",
+            "label": "Слабость: Ненависть Раздёленного Волка",
+            "description": "Если хоть половина всех баек про него - правда, то он ненавидит всех и вся с почти одинаковым пылом. Но относительно моего Врага, ярость Волка горит толику хлеще. (Других Часов он особо не боится.)",
             "uniquenessgroup": "uq.rkx.weakness.wolf",
             "aspects": {
                 "weakness.foe": 1
@@ -9144,8 +9144,8 @@
         },
         {
             "id": "rkx.weakness.flowermaker",
-            "label": "Weakness: Flowermaker",
-            "description": "Something about the Flowermaker's influence confounds my Foe. I may never know exactly what. (But he doesn't have any especial fear of the other Hours.)",
+            "label": "Слабость: Цветодел",
+            "description": "Что-то во влиянии Цветодела ставит моего Врага в тупик. Может, я так и не узнаю, что же именно. (Но другиих Часов он особо не боится.)",
             "uniquenessgroup": "uq.rkx.weakness.flowermaker",
             "aspects": {
                 "weakness.foe": 1
@@ -9153,8 +9153,8 @@
         },
         {
             "id": "rkx.weakness.cold.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.cold",
             "decayTo": "rkx.weakness.cold",
             "aspects": {
@@ -9167,8 +9167,8 @@
         },
         {
             "id": "rkx.weakness.heat.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.heat",
             "decayTo": "rkx.weakness.heat",
             "aspects": {
@@ -9181,8 +9181,8 @@
         },
         {
             "id": "rkx.weakness.sea.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.sea",
             "decayTo": "rkx.weakness.sea",
             "aspects": {
@@ -9195,8 +9195,8 @@
         },
         {
             "id": "rkx.weakness.faith.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.faith",
             "decayTo": "rkx.weakness.faith",
             "aspects": {
@@ -9209,8 +9209,8 @@
         },
         {
             "id": "rkx.weakness.cats.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.cats",
             "decayTo": "rkx.weakness.cats",
             "aspects": {
@@ -9223,8 +9223,8 @@
         },
         {
             "id": "rkx.weakness.heights.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.heights",
             "decayTo": "rkx.weakness.heights",
             "aspects": {
@@ -9237,8 +9237,8 @@
         },
         {
             "id": "rkx.weakness.horned.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.horned",
             "aspects": {
                 "weakness.foe.unknown": 1
@@ -9251,8 +9251,8 @@
         },
         {
             "id": "rkx.weakness.wolf.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.wolf",
             "decayTo": "rkx.weakness.wolf",
             "aspects": {
@@ -9265,8 +9265,8 @@
         },
         {
             "id": "rkx.weakness.flowermaker.hidden",
-            "label": "An Unknown Weakness",
-            "description": "If I can uncover this weakness, it'll give me an advantage.",
+            "label": "Неизвестная слабость",
+            "description": "Если я раскрою эту слабость, то получу преимущество.",
             "uniquenessgroup": "uq.rkx.weakness.flowermaker",
             "decayTo": "rkx.weakness.flowermaker",
             "aspects": {
